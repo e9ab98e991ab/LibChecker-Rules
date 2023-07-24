@@ -13,11 +13,11 @@
 ```
 
 ## 解释：
-label: 组件的名称
-team: 组件所属团队
-iconUrl: 组件的图标URL
-contributors: 组件的贡献者列表
-description: 组件的描述信息
-relativeUrl: 组件相关页面的URL
+> label: 组件的名称
+> team: 组件所属团队
+> iconUrl: 组件的图标URL
+> contributors: 组件的贡献者列表
+> description: 组件的描述信息
+> relativeUrl: 组件相关页面的URL
 
 LibChecker 规则仓库，请按照模板规范提交 issue。
